@@ -1,3 +1,3 @@
-#Fake PHP project
+# Fake PHP project
 
 Just look at the PHP
